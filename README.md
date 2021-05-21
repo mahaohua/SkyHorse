@@ -8,3 +8,4 @@ demo-05 # 实现定时任务 SpringTask
 demo-06 # 实现商品搜索 Elasticsearch
 demo-07 # 实现文档操作 Mongodb
 demo-08 # 实现延迟消息 RabbitMQ
+demo-09 # 实现文件上传 OSS
